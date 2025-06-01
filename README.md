@@ -76,3 +76,9 @@ Where \(k_{species}\) is the species-specific empirical correction coefficient.
 - Calibration dataset for fine-tuning AI models (Lyra Leaf, Lyra Soil)
 
 This project demonstrates how ecological field monitoring can be democratized using inexpensive tools combined with digital processing and AI guidance.
+
+---
+
+🔗 **Related project**:  
+📊 [Lyra_Leaf_SPAD_Calibration](https://github.com/Jerome-openclassroom/Lyra_Leaf_SPAD_Calibration)  
+*A complementary project that calibrates foliar green intensity (SPAD values) using scanned leaf images and CNNs, enhancing the precision of ecological diagnostics.*
