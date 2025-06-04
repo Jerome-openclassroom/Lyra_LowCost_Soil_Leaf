@@ -80,5 +80,9 @@ This project demonstrates how ecological field monitoring can be democratized us
 ---
 
 🔗 **Related project**:  
-📊 [Lyra_Leaf_SPAD_Calibration](https://github.com/Jerome-openclassroom/Lyra_Leaf_SPAD_Calibration)  
-*A complementary project that calibrates foliar green intensity (SPAD values) using scanned leaf images and CNNs, enhancing the precision of ecological diagnostics.*
+## 🔗 Part of the Lyra Ecosystem
+
+- [Lyra_Leaf_SPAD_Calibration](https://github.com/Jerome-openclassroom/Lyra_Leaf_SPAD_Calibration) – SPAD sensor calibration for estimating chlorophyll density in leaves.
+- [TurbiditySensor_OpenScience](https://github.com/Jerome-openclassroom/TurbiditySensor_OpenScience/blob/main/README.md) – Optical-based estimation of aquatic turbidity and primary productivity using open-source sensors.
+- [Leaf_Chlorose_CNN_Training](https://github.com/Jerome-openclassroom/Leaf_Chlorose_CNN_Training) – CNN-based classification of chlorotic vs. healthy leaves from scanned images.
+
