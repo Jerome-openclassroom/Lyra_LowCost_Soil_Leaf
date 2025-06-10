@@ -37,6 +37,37 @@ Using a flatbed scanner, leaf surface and green density (DO_green) are measured 
 
 ---
 
+### III. 🧪 Nitrate Extraction Protocol (Field-Applied)
+
+This nitrate extraction method was routinely used in professional agronomic diagnostics, and has been re-implemented here to support soil nutrient balance analysis in the Lyra_LowCost_Soil_Leaf project.
+
+Step 1 – Sample homogenization
+A 1:1 mixture of dry soil and demineralized water is prepared in a sealed container.
+The mixture is then homogenized using a cordless drill equipped with a paddle mixer, ensuring complete dispersion of soluble elements.
+
+![Driller_setting](.NO3_test//Driller_setting.JPG/)
+
+
+Step 2 – Reverse filtration
+The slurry is poured into a folded paper filter cone, fixed over a clean collection jar.
+Gravity-based reverse filtration is used to obtain a clear filtrate, suitable for nitrate testing.
+
+
+
+Step 3 – Nitrate reading
+A JBL 7-in-1 test strip is briefly immersed in the collected filtrate.
+After 1 minute, the nitrate concentration is estimated by comparing the test zone to the printed scale on the tube.
+
+
+
+Interpretation
+In the tested soil sample, the estimated nitrate concentration (NO₃⁻) was close to 100 mg/L.
+This high value is consistent with the vigorous vegetative growth observed in the tomato plants, suggesting a nitrogen-potassium imbalance.
+Such an imbalance may explain the tendency of the plants to produce excess foliage with reduced fruiting.
+
+---
+
+
 ## Modeling Primary Production Potential
 
 From the scanner-based dataset, one can estimate a theoretical productivity using the following parameters:
