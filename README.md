@@ -45,19 +45,15 @@ Step 1 – Sample homogenization
 A 1:1 mixture of dry soil and demineralized water is prepared in a sealed container.
 The mixture is then homogenized using a cordless drill equipped with a paddle mixer, ensuring complete dispersion of soluble elements.
 
-![Driller_setting](NO3_test//Driller_setting.JPG/)
-
 
 Step 2 – Reverse filtration
 The slurry is poured into a folded paper filter cone, fixed over a clean collection jar.
 Gravity-based reverse filtration is used to obtain a clear filtrate, suitable for nitrate testing.
 
 
-
 Step 3 – Nitrate reading
 A JBL 7-in-1 test strip is briefly immersed in the collected filtrate.
 After 1 minute, the nitrate concentration is estimated by comparing the test zone to the printed scale on the tube.
-
 
 
 Interpretation
@@ -97,6 +93,7 @@ Where \(k_{species}\) is the species-specific empirical correction coefficient.
 - `Tests_carbonates`: Vinegar test for carbonates + video of bubbling reaction
 - `Tests_H2O2`: Organic matter test with visible foam
 - `Visual_chart`: Plastified green chart + 2 field usage examples
+- `NO3_test`: step-by-step images documenting the field-based nitrate extraction protocol
 
 ---
 
