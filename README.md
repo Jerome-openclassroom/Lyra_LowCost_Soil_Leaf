@@ -45,7 +45,7 @@ Step 1 – Sample homogenization
 A 1:1 mixture of dry soil and demineralized water is prepared in a sealed container.
 The mixture is then homogenized using a cordless drill equipped with a paddle mixer, ensuring complete dispersion of soluble elements.
 
-![Driller_setting](.NO3_test//Driller_setting.JPG/)
+![Driller_setting](NO3_test//Driller_setting.JPG/)
 
 
 Step 2 – Reverse filtration
