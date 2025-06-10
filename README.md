@@ -63,7 +63,9 @@ This high value is consistent with the vigorous vegetative growth observed in th
 Such an imbalance may explain the tendency of the plants to produce excess foliage with reduced fruiting.
 
 Note:
-For higher accuracy in professional agronomic settings, the use of a dedicated test strip reader such as the Nutrichek 404 is recommended. These devices improve measurement repeatability and reduce interpretation bias when compared to visual color matching.
+Although this method is fully suitable for educational use, gardening, or even small-scale non-intensive agriculture (a few hundred square meters),
+for more precise measurements in professional agronomic contexts, the use of a strip reader device such as the Nutrichek 404 is recommended.
+These instruments improve both repeatability and reading accuracy, reducing subjective interpretation bias.
 ---
 
 
