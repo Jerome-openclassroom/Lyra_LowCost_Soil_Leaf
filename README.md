@@ -62,6 +62,11 @@ In the tested soil sample, the estimated nitrate concentration (NO₃⁻) was cl
 This high value is consistent with the vigorous vegetative growth observed in the tomato plants, suggesting a nitrogen-potassium imbalance.
 Such an imbalance may explain the tendency of the plants to produce excess foliage with reduced fruiting.
 
+🧩 Contextual relevance:
+
+These protocols are specifically designed for individuals or micro-groups working on **modest plots** (e.g., 300–400 m²), where food production often exceeds personal consumption. In such contexts, sharing surplus vegetables (e.g., potatoes, salads, cauliflowers, radishes) with neighbors or relatives becomes a **social link**, reinforcing **community ties** around ecological practices. The tools and methods proposed here aim to empower such **human-scale, informal or associative networks**, combining **agronomic rigour with accessibility**.
+
+
 💡 Note: While this method is fully suitable for educational use, gardening, or even small-scale non-intensive agriculture (a few hundred square meters), more precise measurements in professional agronomic contexts may require a dedicated strip reader, such as the Nutrichek 404, to improve repeatability and accuracy.
 
 ---
