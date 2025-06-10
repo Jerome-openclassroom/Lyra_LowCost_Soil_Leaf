@@ -16,7 +16,8 @@ Low-tech but effective methods are used to estimate key soil parameters:
 - **Structure and Structural Stability**: Based on immersion and observation.
 - **Organic Matter**: Tested using hydrogen peroxide (H₂O₂) with bubbling indicating presence.
 - **Carbonates**: Verified by strong effervescence when in contact with vinegar (20°).
-- **Soil pH**: Tested with standard colorimetric strips.
+- **Soil pH**: Tested with standard colorimetric test.
+- **Nitrates**: Tested with standard colorimetric strips.
 - **Optional parameters**:
   - **pH KCl**: Measured alongside pH H₂O using potassium chloride (food-grade) for estimating exchangeable acidity.
   - **Exchangeable Aluminum**: Recommended in acid forest soils (granite base, conifer dominance).
