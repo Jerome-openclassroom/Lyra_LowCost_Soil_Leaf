@@ -62,10 +62,8 @@ In the tested soil sample, the estimated nitrate concentration (NO₃⁻) was cl
 This high value is consistent with the vigorous vegetative growth observed in the tomato plants, suggesting a nitrogen-potassium imbalance.
 Such an imbalance may explain the tendency of the plants to produce excess foliage with reduced fruiting.
 
-Note:
-Although this method is fully suitable for educational use, gardening, or even small-scale non-intensive agriculture (a few hundred square meters),
-for more precise measurements in professional agronomic contexts, the use of a strip reader device such as the Nutrichek 404 is recommended.
-These instruments improve both repeatability and reading accuracy, reducing subjective interpretation bias.
+💡 Note: While this method is fully suitable for educational use, gardening, or even small-scale non-intensive agriculture (a few hundred square meters), more precise measurements in professional agronomic contexts may require a dedicated strip reader, such as the Nutrichek 404, to improve repeatability and accuracy.
+
 ---
 
 
